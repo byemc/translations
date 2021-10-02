@@ -157,7 +157,8 @@
                 "errors": {
                     "title": "Brón orm, níl aon rud anseo!",
                     "nochannels": "Níl aon chainéil, nó rochtain ag an bhfreastalaí seo.",
-                    "nochannel": "Níl aon cainéal"
+                    "nochannel": "Níl aon cainéal."
+                    "EmailInUse": "Tá an ríomhphost seo in úsáid cheana féin."
                 }
             },
             "groups": {
